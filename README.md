@@ -11,15 +11,18 @@ A flask based Firewall that has a purpose of protecting flask web-apps from comm
 
 
 ## Installation 
-1. Download the firewall_lib directory
-2. Download the required packages listed in the requirements.txt file
+1. [Click here](https://github.com/Dvtt0253/Flask-Firewall/archive/refs/heads/main.zip) to download the firewall_lib directory ZIP file
+2. Unzip the downloaded directory
+3. Once downloaded and unzipped, paste and add the firewall directory to your desired flask application
+4. Download the required packages from the requirements.txt file with the following command: `pip install -r requirements.txt`
+  
 
 
 ## Usage
 1. Add the firewall_lib directory to your prefered flask application directory
-2. To import the firewall, use the following import: "from firewall_lib.flask_firewall import Firewall"
-3. Initialize the Firewall class to a variable and pass in the required parameters (max_requests, time_window(in seconds)). ex. 'firewall_variable = Firewall(100, 60)'
-4. Access functionality of the Firewall class through your created firewall variable. ex. 'firewall_variable.rate_limiter() or firewall_variable.login_limiter(3, 60)'
+2. To import the firewall, use the following import: `from firewall_lib.flask_firewall import Firewall`
+3. Initialize the Firewall class to a variable and pass in the required parameters (max_requests, time_window(in seconds)). ex. `firewall_variable = Firewall(100, 60)`
+4. Access functionality of the Firewall class through your created firewall variable. ex. `firewall_variable.rate_limiter() or firewall_variable.login_limiter(3, 60)`
 
 ## Functions in the Firewall Class
 
