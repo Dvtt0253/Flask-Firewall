@@ -47,7 +47,7 @@ A flask based Firewall that has a purpose of protecting flask web-apps from comm
 
 ## Copyright
 
-Copyright (c) [2025] [Joie Harvey]. All rights reserved.
+Copyright (c) 2025 Joie Harvey. All rights reserved.
 
 
 
