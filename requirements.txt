@@ -1,2 +1,2 @@
-Flask
-bleach
+Flask==3.1.0
+bleach==6.2.0
