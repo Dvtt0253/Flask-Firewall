@@ -45,7 +45,20 @@ A flask based Firewall that has a purpose of protecting flask web-apps from comm
 
 
 
-## Copyright
+## License 
+
+This project is licensed under the All Rights Reserved License. 
+
+You are permitted to use this Flask Firewall **only** with the intentions of securing your Flask web applications.
+
+See the full [License](./LICENSE.txt) for further information and permissions.
+
+
+
+
+
+
+## Copyright 
 
 Copyright (c) 2025 Joie Harvey. All rights reserved.
 
