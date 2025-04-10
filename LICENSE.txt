@@ -1,0 +1,16 @@
+Copyright (c) 2025 Joie Harvey
+
+All rights reserved.
+
+This Flask Firewall is provided to you for **personal or commercial use** to protect your web applications, subject to the following conditions:
+
+1. **Usage Rights**: You may use, modify, and integrate the Flask firewall into your web applications for the sole purpose of securing them.  
+2. **Prohibited Usage**: You may **not**:
+    - Redistribute, sell, or sublicense the Flask firewall code or model to others.
+    - Use the firewall code in any manner that isn't related to its purpose of securing Flask-based web applications.
+    - Claim ownership of the firewall or any part of the code.
+    - Use this code as part of any project that attempts to reverse engineer, reproduce, or replicate the firewall functionality outside of its intended use.
+
+By using this code, you acknowledge that you do not own any of the intellectual property rights associated with it, and you agree to abide by these terms.
+
+For questions or special permissions, please contact Joie.Harvey1@gmail.com.
